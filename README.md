@@ -1,6 +1,6 @@
 # README
 
-This README GIT TEST would normally document whatever steps are necessary to get the
+This README GIT TEST NUMBER 2 would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
